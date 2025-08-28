@@ -1,0 +1,2 @@
+' Placeholder for custom ID assignment logic
+' This module will ensure no gaps and prevent accidental zero-ID records
